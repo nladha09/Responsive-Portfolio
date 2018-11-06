@@ -217,6 +217,8 @@ input[type=submit] {
   border: 0 none;
 }
 
+  /* Additional Screen Sizes */
+  /* Width at 980px and below */
 @media screen and (max-width: 980px) {
   body {
   background-color: #333;
@@ -234,7 +236,7 @@ input[type=submit] {
   margin-top: 40px;
   }
   }
-  /* Additional Screen Sizes */
+
   /* Width at 768px and below */
   @media screen and (max-width: 768px) {
   body {
@@ -253,6 +255,7 @@ input[type=submit] {
   margin-top: 40px;
   }
   }
+
   /* Width at 640px and below */
   @media screen and (max-width: 640px) {
   body {
